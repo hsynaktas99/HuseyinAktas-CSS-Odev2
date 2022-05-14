@@ -1,0 +1,50 @@
+.logo{
+ margin-left: 40%;
+ margin-top: 100px;
+}
+
+.bolum2{
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.bolum2 input{
+    width: 400px;
+}
+
+.bolum2 button{
+    margin: 2px;
+}
+
+.bolum3 article {
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    height: 100px;
+
+}
+
+
+.bolum3 article[class="bolum3-1"]{
+    background-color: powderblue;
+    width: 500px;
+    
+}
+
+.bolum3 article[class="bolum3-2"]{
+    background-color: skyblue;
+    width: 200px;
+    margin-left: 60px;
+    
+}
+
+.bolum3 article[class="bolum3-3"]{
+    background-color: cyan;
+    width: 600px;
+    margin-left: 90px;
+}
+
+ul{
+    list-style-type: none;
+}
